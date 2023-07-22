@@ -1,0 +1,27 @@
+[{"source": "book",
+"title": "Ini book 1 test",
+"subject": null,
+"upc": null,
+"isbn": null,
+"authors":null,
+"dds_number":"12312312"
+},
+{
+"source": "cd",
+"title": "ini cd 1 ",
+"subject": null,
+"upc": null,
+"Artist" : null
+},
+
+{
+ "source": "magazine",
+ "title": "Media CNBC 1", 
+ "subject": null,
+ "upc": null,
+ "volume":null, 
+ "issue": null   
+}
+
+
+]
